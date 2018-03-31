@@ -1,0 +1,5 @@
+este es el contenido del archivo 2
+
+Otra linea de codigo que estoy agregando.
+
+Lic. Manuel Gamez
