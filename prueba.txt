@@ -1,7 +1,9 @@
+USO DE GIT - CONTROL DE VERSIONES
+
 este es mi primer archivo txt
 
 Saludos mis estudiantes de sis21
 
 Facilitador. Lic. Manuel Gámez
 
-Este línea se la estoy adicionando...
+
